@@ -1,0 +1,11 @@
+fix bug of default theme persisting after page unload
+update form colors
+fix login persisting after unload
+
+sidebar update 
+image now deletes along with blogposts
+fix addblog bug where input missing linebreak
+
+add index.html(for the phase 2 requirement)
+
+added blogs.sql for building database and blogs table
